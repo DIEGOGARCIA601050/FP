@@ -87,6 +87,6 @@ nav ul li{
 	width: 8.3em;
 }
 
-/*#BenitoJuarez {
-	width: 100%;
-}*/
+video {
+	width: 640px; height: 360px; left: 0px; top: 0px;
+}
