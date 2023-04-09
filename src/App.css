@@ -25,6 +25,10 @@ li {
   color: #3a929e;
 }
 
+.cita {
+	font-style: italic;
+}
+
 nav{
 	margin: 0;
 	padding: 0;
