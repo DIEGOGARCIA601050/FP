@@ -29,7 +29,8 @@ Un día, Miguel Hidalgo decidió que México ya no debía ser gobernado por los 
 
 Después de pelear muchas batallas, Miguel Hidalgo fue capturado y condenado a muerte. Fue fusilado en  Chihuahua el 30 de julio de 1811, los decapitaron y colgaron sus cabezas en la Alhóndiga de Granaditas de Guanajuato. pero su legado y su valentía se mantienen vivos hasta el día de hoy.</p>
 <figure>
-<img src='./'></img>
+<img src='./assets/Captura de pantalla 2023-04-30 152531.png'></img>
+<figcaption>Foto sacada de Dalle-2</figcaption>
 </figure>
 
       </ul>
