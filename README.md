@@ -76,7 +76,8 @@ function App() {
       <main>
         <a href='https://akifrases.com/autor/miguel-hidalgo-y-costilla'>https://akifrases.com/autor/miguel-hidalgo-y-costilla</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieSgPWjnMZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        Nació en la ciudad de Oaxaca un 15 de septiembre de 1830, ¡sí, el mismo día de la Independencia de México! Pero Porfirio no quería ser un simple espectador de la historia, así que ingresó al Instituto de Ciencias y Artes de Oaxaca para estudiar leyes, ¡quería ser un abogado muy top!
+        Nació en la ciudad de Oaxaca un 15 de septiembre de 1830, ¡sí, el mismo día de la Independencia de México! Pero
+        Porfirio no quería ser un simple espectador de la historia, así que ingresó al Instituto de Ciencias y Artes de Oaxaca para estudiar leyes, ¡quería ser un abogado muy top!
 
 Pero, ¡oh no! Los conflictos políticos del país no permitieron que Porfirio concluyera sus estudios, así que decidió luchar contra los conservadores en la Guerra de Reforma. Participó en la Batalla de Puebla durante la intervención francesa y logró huir cuando las fuerzas franco-mexicanas tomaron su ciudad natal.
 
