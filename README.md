@@ -68,8 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-    <div className='App'>
-      <main>
         <a href='https://akifrases.com/autor/miguel-hidalgo-y-costilla'>https://akifrases.com/autor/miguel-hidalgo-y-costilla</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieSgPWjnMZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Porfirio Díaz
@@ -81,5 +79,3 @@ Pero, ¡oh no! Los conflictos políticos del país no permitieron que Porfirio c
 Pero no se rindió, ¡al contrario! Inició una serie de victorias militares y en 1876 triunfa la Revolución de Tuxtepec. ¡Y tachán! El 5 de mayo de 1877 toma posesión de la presidencia de México. Pero su reinado no terminaría ahí, ¡no señor! En 1884 asumió la presidencia nuevamente y no la abandonó hasta 1911, ¡ni más ni menos que 27 años en el poder! Pero entonces llegó Francisco I. Madero y convocó a la rebelión.
 
 Porfirio Díaz renunció a la presidencia en mayo de 1911 y abandonó el país. Y lamentablemente, amigos, ¡falleció en París, Francia, el 2 de julio de 1915! Aunque sus ideas y acciones siguen siendo objeto de controversia, su figura es parte importante de la historia de México y su legado sigue siendo recordado en la actualidad.
-      </main>
-    </div>
