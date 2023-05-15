@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<a href='./History.md'></a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,7 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-        <a href='https://akifrases.com/autor/miguel-hidalgo-y-costilla'>https://akifrases.com/autor/miguel-hidalgo-y-costilla</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieSgPWjnMZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Porfirio Díaz
 Nació en la ciudad de Oaxaca un 15 de septiembre de 1830, ¡sí, el mismo día de la Independencia de México! Pero
