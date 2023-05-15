@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
       <main>
         <a href='https://akifrases.com/autor/miguel-hidalgo-y-costilla'>https://akifrases.com/autor/miguel-hidalgo-y-costilla</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieSgPWjnMZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-#Porfirio Díaz
+Porfirio Díaz
 Nació en la ciudad de Oaxaca un 15 de septiembre de 1830, ¡sí, el mismo día de la Independencia de México! Pero
 Porfirio no quería ser un simple espectador de la historia, así que ingresó al Instituto de Ciencias y Artes de Oaxaca para estudiar leyes, ¡quería ser un abogado muy top!
 
